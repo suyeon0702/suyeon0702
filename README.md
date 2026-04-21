@@ -22,7 +22,7 @@ Lately obsessed with RAG pipelines, agentic workflows, and making legacy .NET co
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
+![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
