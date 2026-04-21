@@ -45,20 +45,4 @@ Lately obsessed with RAG pipelines, agentic workflows, and making legacy .NET co
 
 [![Gmail](https://img.shields.io/badge/samgong0702@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samgong0702@gmail.com)
 
----
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=suyeon0702&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=suyeon0702&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=suyeon0702&show_icons=true&theme=default&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon0702&layout=compact&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon0702&layout=compact&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon0702&layout=compact&theme=default&hide_border=true" />
-</picture>
