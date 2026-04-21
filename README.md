@@ -30,15 +30,15 @@ Lately obsessed with RAG pipelines, agentic workflows, and making legacy .NET co
 
 ## 🔭 What I'm up to
 
-- 🤖 Building a **RAG pipeline** with EXAONE + ChromaDB on local network
-- 📰 Working on a **media intelligence dashboard** (FastAPI + Gemini 2.5 Flash)
-- 🗺️ Contributing backend to a **personality-based travel kiosk** (FastAPI + Electron)
-- 🏭 Exploring **SmartFactory + Digital Twin** patterns
+- 🏢 Driving AX initiatives & maintaining legacy C#/.NET systems in manufacturing
+- 🗺️ Developing backend for personality-based kiosk services (FastAPI + Electron)
+- 🤖 Building RAG pipeline with EXAONE + ChromaDB — exploring Ontology integration
+- 📰 Built a media intelligence dashboard (FastAPI + Gemini 2.5 Flash)
 
 ## 🌱 Currently exploring
 
-- Ontology-enhanced LLM for enterprise
-- Agentic AI workflows & tool orchestration
+- Agentic AI workflows & tool orchestration for enterprise use
+- Ontology-enhanced LLM systems for internal knowledge management
 
 ---
 
