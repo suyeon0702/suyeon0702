@@ -28,6 +28,14 @@ Lately obsessed with RAG pipelines, agentic workflows, and making legacy .NET co
 
 ---
 
+## 🏅 Certifications
+
+![정보처리기사](https://img.shields.io/badge/정보처리기사-0078D4?style=flat-square)
+![AICE Associate](https://img.shields.io/badge/AICE-Associate-FF6B35?style=flat-square)
+![AI-900](https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+---
+
 ## 🔭 What I'm up to
 
 - 🏢 Driving AX initiatives & maintaining legacy C#/.NET systems in manufacturing
